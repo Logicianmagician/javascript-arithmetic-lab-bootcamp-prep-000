@@ -25,8 +25,8 @@ function dec(a) {
   return a - 1
 }
 
-function makeInt(0) {
-  return (0)
+function makeInt(n) {
+  return (n)
 }
 
-parseInt(0, 10)
+
