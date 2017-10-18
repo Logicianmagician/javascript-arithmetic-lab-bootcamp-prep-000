@@ -30,5 +30,3 @@ function makeInt(0) {
 }
 
 parseInt(0, 10)
-
-
